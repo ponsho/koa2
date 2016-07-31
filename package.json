@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Boilerplate code for koa2 await-async suppport",
   "main": "index.js",
-  "scripts": {
-    "build": "babel index.js -o app.js"
-  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
